@@ -1,0 +1,17 @@
+Best Model Parameters:
+{'model__max_depth': 3, 'model__n_estimators': 200}
+
+Accuracy: 0.5082
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.82      0.82      0.82        33
+           1       0.13      0.18      0.15        11
+           2       0.17      0.14      0.15         7
+           3       0.17      0.14      0.15         7
+           4       0.00      0.00      0.00         3
+
+    accuracy                           0.51        61
+   macro avg       0.26      0.26      0.26        61
+weighted avg       0.50      0.51      0.51        61
